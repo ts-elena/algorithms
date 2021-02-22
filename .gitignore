@@ -1,0 +1,13 @@
+# Dependency directory
+node_modules
+
+# Editors
+.idea
+*.iml
+
+# Ignore built ts files
+dist/**/*
+
+# OS metadata
+.DS_Store
+Thumbs.db
