@@ -8,7 +8,7 @@ it.each([
   [5, 4, 29],
   [6, 4, 57],
 ])(
-  "zeroOneSeqWithNoTrippleOnes",
+  "zeroOneSeqWithoutSetOnesRepetitions",
   (
     sequenceLength: number,
     maxNumOfRepetitions: number,
